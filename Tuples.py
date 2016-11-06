@@ -14,4 +14,5 @@ t = (1,2,4,3,2,2,1,2,3,2,1)
 
 print(t.count(1))
 num = 2
-print("%s appears %s times in the Tuple"%(t.count(2)))
+
+print(" 2 appears %s times in the Tuple"%(t.count(2)))
